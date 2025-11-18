@@ -6,3 +6,4 @@ ADD:
 - code references
 - LICENSE
 - .gitignore
+- sources section
