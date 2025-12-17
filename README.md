@@ -44,26 +44,26 @@ This project was developed and tested using **Python 3.13.5**
 
 All required packages listed below are required and compatible with Python ≥3.10:
 
-os
-xarray
-numpy
-pandas
-matplotlib
-cartopy
-scipy
-seaborn
-statsmodels
-urllib.request
-shapely
+- os
+- xarray
+- numpy
+- pandas
+- matplotlib
+- cartopy
+- scipy
+- seaborn
+- statsmodels
+- urllib.request
+- shapely
 
 ### Contact & Use:
 
 This repository is publicly available for academic, instructional, and research use. All scripts are fully open and may be adapted or extended as needed. If you have questions, find errors, or would like to discuss extensions of this work, you may contact:
 
 Erin Welch
-erinwelchc@gmail.com
-erin7@illinois.edu
-ewelch2@my.hpu.edu
-GitHub: erinsatmosphere
+- erinwelchc@gmail.com
+- erin7@illinois.edu
+- ewelch2@my.hpu.edu
+- GitHub: erinsatmosphere
 
 Users are welcome to open GitHub issues for questions about reproducibility, code improvements, data access, and clarification on ENSO or tropical cyclone methods. Collaboration or feedback is always appreciated!
